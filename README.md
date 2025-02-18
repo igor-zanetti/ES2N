@@ -6,9 +6,9 @@
 # <h1 align="center"> *CaseConfig:* **Projeto engenharia de software II** </h1>
 # <h1 align="center"> Membros do grupo: </h1>
 
-<p Igor Zanetti Domotor - 0030482211042>
-<p Ana Luiza Martins - 0030482313016>
-<p Mateus Aimo Bera - 0030482313004>
+- Igor Zanetti Domotor - 0030482211042
+* Ana Luiza Martins - 0030482313016
++ Mateus Aimo Bera - 0030482313004
 
 
 
